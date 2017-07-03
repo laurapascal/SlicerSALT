@@ -171,6 +171,7 @@ endif()
 # Slicer configuration
 #-----------------------------------------------------------------------------
 add_subdirectory(Modules)
+add_subdirectory(CommandLineTools)
 
 #-----------------------------------------------------------------------------
 # Superbuild script
